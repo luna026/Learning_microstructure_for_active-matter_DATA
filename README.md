@@ -1,4 +1,4 @@
-# Learning_microstructure_code_and_data
+#     Learning_microstructure_for_active-matter_DATA
 This repository contains all data files and codes generated and used for the paper 'Learning Microstructure in Active matter'.
 
 ## The data is given for 3 cases: 
