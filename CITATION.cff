@@ -2,10 +2,7 @@ cff-version: 1.2.0
 message: "If you use this dataset or code, please cite it as below."
 type: dataset
 title: "Learning_microstructure_for_active-matter_DATA"
-authors:
-  - family-names: Dasgupta
-    given-names: Writu
-    orcid: "https://orcid.org/0009-0001-6922-6759"
+
 repository-code: "https://github.com/luna026/Learning_microstructure_for_active-matter_DATA"
 url: "https://github.com/luna026/Learning_microstructure_for_active-matter_DATA"
 abstract: "This repository contains all data files and codes generated and used for the paper 'Learning Microstructure in Active matter'."
@@ -15,10 +12,6 @@ date-released: 2026-02-01
 preferred-citation:
   type: article
   title: "Learning Microstructure in Active matter"
-  authors:
-    - family-names: Dasgupta
-      given-names: Writu
-      orcid: "https://orcid.org/0009-0001-6922-6759"
   year: 2026
   doi: "10.48550/arXiv.2601.05894"
   url: "https://doi.org/10.48550/arXiv.2601.05894"
